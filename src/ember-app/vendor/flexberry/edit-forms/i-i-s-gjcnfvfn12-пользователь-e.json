@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Пользователь",
+  "name": "IISGjcnfvfn12ПользовательE",
+  "className": "ПользовательE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-gjcnfvfn12-пользователь",
+      "modelProjection": "ПользовательE"
+    }
+  ]
+}

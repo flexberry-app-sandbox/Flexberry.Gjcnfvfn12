@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-gjcnfvfn12-хранение-e",
+  "editForm": "i-i-s-gjcnfvfn12-хранение-e",
+  "external": false,
+  "caption": "Хранение",
+  "name": "IISGjcnfvfn12ХранениеL",
+  "className": "ХранениеL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-gjcnfvfn12-хранение",
+      "modelProjection": "ХранениеL"
+    }
+  ]
+}

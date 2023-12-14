@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-gjcnfvfn12-постамат-e",
+  "editForm": "i-i-s-gjcnfvfn12-постамат-e",
+  "external": false,
+  "caption": "Постамат",
+  "name": "IISGjcnfvfn12ПостаматL",
+  "className": "ПостаматL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-gjcnfvfn12-постамат",
+      "modelProjection": "ПостаматL"
+    }
+  ]
+}

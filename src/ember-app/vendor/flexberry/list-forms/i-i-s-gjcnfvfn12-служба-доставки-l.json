@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-gjcnfvfn12-служба-доставки-e",
+  "editForm": "i-i-s-gjcnfvfn12-служба-доставки-e",
+  "external": false,
+  "caption": "Служба доставки",
+  "name": "IISGjcnfvfn12СлужбаДоставкиL",
+  "className": "СлужбаДоставкиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-gjcnfvfn12-служба-доставки",
+      "modelProjection": "СлужбаДоставкиL"
+    }
+  ]
+}

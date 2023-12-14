@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-gjcnfvfn12-транзакция-e",
+  "editForm": "i-i-s-gjcnfvfn12-транзакция-e",
+  "external": false,
+  "caption": "Транзакция",
+  "name": "IISGjcnfvfn12ТранзакцияL",
+  "className": "ТранзакцияL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-gjcnfvfn12-транзакция",
+      "modelProjection": "ТранзакцияL"
+    }
+  ]
+}

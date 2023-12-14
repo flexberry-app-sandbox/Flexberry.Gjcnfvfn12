@@ -1,0 +1,50 @@
+﻿{
+  "applicationCaption": "Gjcnfvfn12",
+  "applicationTitle": "Gjcnfvfn12",
+  "items": [
+    {
+      "link": null,
+      "menuName": "gjcnfvfn12",
+      "caption": "Gjcnfvfn12",
+      "title": "Gjcnfvfn12",
+      "children": [
+        {
+          "link": "i-i-s-gjcnfvfn12-служба-доставки-l",
+          "menuName": null,
+          "caption": "Служба доставки",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-gjcnfvfn12-хранение-l",
+          "menuName": null,
+          "caption": "Хранение",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-gjcnfvfn12-постамат-l",
+          "menuName": null,
+          "caption": "Постамат",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-gjcnfvfn12-пользователь-l",
+          "menuName": null,
+          "caption": "Пользователь",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-gjcnfvfn12-транзакция-l",
+          "menuName": null,
+          "caption": "Транзакция",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

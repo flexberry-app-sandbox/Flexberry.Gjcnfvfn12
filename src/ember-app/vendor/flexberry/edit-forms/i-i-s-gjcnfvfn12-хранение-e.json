@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Посылка.Транзакция",
+      "projection": "ТранзакцияL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Хранение",
+  "name": "IISGjcnfvfn12ХранениеE",
+  "className": "ХранениеE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-gjcnfvfn12-хранение",
+      "modelProjection": "ХранениеE"
+    }
+  ]
+}
