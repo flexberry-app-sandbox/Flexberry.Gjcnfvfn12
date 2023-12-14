@@ -56,8 +56,7 @@ export let defineProjections = function (modelClass) {
     датаЗавершения: attr('Дата завершения', { index: 2 }),
     продления: attr('Продления', { index: 3 }),
     посылка: hasMany('i-i-s-gjcnfvfn12-посылка', 'Посылка', {
-      номер: attr('Номер', { index: 0 }),
-      статус: attr('Статус', { index: 1 })
+      номер: attr('Номер', { index: 0 })
     })
   });
 

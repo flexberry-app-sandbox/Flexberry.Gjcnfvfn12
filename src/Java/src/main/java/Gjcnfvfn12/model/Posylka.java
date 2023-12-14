@@ -25,9 +25,6 @@ public class Posylka {
     @Column(name = "Номер")
     private Integer номер;
 
-    @Column(name = "Статус")
-    private String статус;
-
     @EdmIgnore
     @Converter(converterClass = UUIDConverter.class, name = "Tranzakciya")
     @Convert("Tranzakciya")
@@ -67,14 +64,6 @@ public class Posylka {
 
     public void setНомер(Integer номер) {
       this.номер = номер;
-    }
-
-    public String getСтатус() {
-      return статус;
-    }
-
-    public void setСтатус(String статус) {
-      this.статус = статус;
     }
 
 

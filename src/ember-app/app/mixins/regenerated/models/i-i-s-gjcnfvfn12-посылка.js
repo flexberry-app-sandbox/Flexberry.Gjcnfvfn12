@@ -6,7 +6,6 @@ import { attr, belongsTo, hasMany } from 'ember-flexberry-data/utils/attributes'
 
 export let Model = Mixin.create({
   номер: DS.attr('number'),
-  статус: DS.attr('i-i-s-gjcnfvfn12-статус'),
   транзакция: DS.belongsTo('i-i-s-gjcnfvfn12-транзакция', { inverse: null, async: false }),
   хранение: DS.belongsTo('i-i-s-gjcnfvfn12-хранение', { inverse: 'посылка', async: false })
 });
@@ -17,12 +16,6 @@ export let ValidationRules = {
     validators: [
       validator('ds-error'),
       validator('number', { allowString: true, allowBlank: true, integer: true }),
-    ],
-  },
-  статус: {
-    descriptionKey: 'models.i-i-s-gjcnfvfn12-посылка.validations.статус.__caption__',
-    validators: [
-      validator('ds-error'),
     ],
   },
   транзакция: {
@@ -43,7 +36,6 @@ export let ValidationRules = {
 
 export let defineProjections = function (modelClass) {
   modelClass.defineProjection('ПосылкаE', 'i-i-s-gjcnfvfn12-посылка', {
-    номер: attr('Номер', { index: 0 }),
-    статус: attr('Статус', { index: 1 })
+    номер: attr('Номер', { index: 0 })
   });
 };

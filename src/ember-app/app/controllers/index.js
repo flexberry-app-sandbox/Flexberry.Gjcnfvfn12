@@ -22,31 +22,31 @@ export default Controller.extend({
             link: 'i-i-s-gjcnfvfn12-служба-доставки-l',
             caption: i18n.t('forms.application.sitemap.gjcnfvfn12.i-i-s-gjcnfvfn12-служба-доставки-l.caption'),
             title: i18n.t('forms.application.sitemap.gjcnfvfn12.i-i-s-gjcnfvfn12-служба-доставки-l.title'),
-            icon: 'tasks',
+            icon: 'chart bar',
             children: null
           }, {
             link: 'i-i-s-gjcnfvfn12-хранение-l',
             caption: i18n.t('forms.application.sitemap.gjcnfvfn12.i-i-s-gjcnfvfn12-хранение-l.caption'),
             title: i18n.t('forms.application.sitemap.gjcnfvfn12.i-i-s-gjcnfvfn12-хранение-l.title'),
-            icon: 'tags',
+            icon: 'suitcase',
             children: null
           }, {
             link: 'i-i-s-gjcnfvfn12-постамат-l',
             caption: i18n.t('forms.application.sitemap.gjcnfvfn12.i-i-s-gjcnfvfn12-постамат-l.caption'),
             title: i18n.t('forms.application.sitemap.gjcnfvfn12.i-i-s-gjcnfvfn12-постамат-l.title'),
-            icon: 'tasks',
+            icon: 'suitcase',
             children: null
           }, {
             link: 'i-i-s-gjcnfvfn12-пользователь-l',
             caption: i18n.t('forms.application.sitemap.gjcnfvfn12.i-i-s-gjcnfvfn12-пользователь-l.caption'),
             title: i18n.t('forms.application.sitemap.gjcnfvfn12.i-i-s-gjcnfvfn12-пользователь-l.title'),
-            icon: 'table',
+            icon: 'folder open',
             children: null
           }, {
             link: 'i-i-s-gjcnfvfn12-транзакция-l',
             caption: i18n.t('forms.application.sitemap.gjcnfvfn12.i-i-s-gjcnfvfn12-транзакция-l.caption'),
             title: i18n.t('forms.application.sitemap.gjcnfvfn12.i-i-s-gjcnfvfn12-транзакция-l.title'),
-            icon: 'phone',
+            icon: 'book',
             children: null
           }]
         }

@@ -44,8 +44,6 @@ namespace IIS.Gjcnfvfn12
         
         private int fНомер;
         
-        private IIS.Gjcnfvfn12.Статус fСтатус;
-        
         private IIS.Gjcnfvfn12.Транзакция fТранзакция;
         
         private IIS.Gjcnfvfn12.Хранение fХранение;
@@ -83,37 +81,6 @@ namespace IIS.Gjcnfvfn12
                 // *** Start programmer edit section *** (Посылка.Номер Set end)
 
                 // *** End programmer edit section *** (Посылка.Номер Set end)
-            }
-        }
-        
-        /// <summary>
-        /// Статус.
-        /// </summary>
-        // *** Start programmer edit section *** (Посылка.Статус CustomAttributes)
-
-        // *** End programmer edit section *** (Посылка.Статус CustomAttributes)
-        public virtual IIS.Gjcnfvfn12.Статус Статус
-        {
-            get
-            {
-                // *** Start programmer edit section *** (Посылка.Статус Get start)
-
-                // *** End programmer edit section *** (Посылка.Статус Get start)
-                IIS.Gjcnfvfn12.Статус result = this.fСтатус;
-                // *** Start programmer edit section *** (Посылка.Статус Get end)
-
-                // *** End programmer edit section *** (Посылка.Статус Get end)
-                return result;
-            }
-            set
-            {
-                // *** Start programmer edit section *** (Посылка.Статус Set start)
-
-                // *** End programmer edit section *** (Посылка.Статус Set start)
-                this.fСтатус = value;
-                // *** Start programmer edit section *** (Посылка.Статус Set end)
-
-                // *** End programmer edit section *** (Посылка.Статус Set end)
             }
         }
         

@@ -14,15 +14,6 @@
       "defaultValue": "",
       "stored": true,
       "ordered": false
-    },
-    {
-      "name": "статус",
-      "type": "i-i-s-gjcnfvfn12-статус",
-      "flexberryType": "Статус",
-      "notNull": false,
-      "defaultValue": "",
-      "stored": true,
-      "ordered": false
     }
   ],
   "belongsTo": [
@@ -52,12 +43,6 @@
           "caption": "Номер",
           "hidden": false,
           "index": 0
-        },
-        {
-          "name": "статус",
-          "caption": "Статус",
-          "hidden": false,
-          "index": 1
         }
       ],
       "belongsTo": [],

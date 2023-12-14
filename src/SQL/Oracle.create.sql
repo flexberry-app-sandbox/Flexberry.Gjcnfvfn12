@@ -26,8 +26,6 @@ CREATE TABLE "Посылка"
 
 	"Номер" NUMBER(10) NULL,
 
-	"Статус" NVARCHAR2(1) NULL,
-
 	"Транзакция" RAW(16) NOT NULL,
 
 	"Хранение" RAW(16) NOT NULL,

@@ -15,7 +15,6 @@ CREATE TABLE СлужбаДоставки (
 CREATE TABLE Посылка (
  primaryKey UUID NOT NULL,
  Номер INT NULL,
- Статус VARCHAR(1) NULL,
  Транзакция UUID NOT NULL,
  Хранение UUID NOT NULL,
  PRIMARY KEY (primaryKey));

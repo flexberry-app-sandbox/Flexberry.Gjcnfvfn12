@@ -23,8 +23,6 @@ CREATE TABLE [Посылка] (
 
 	 [Номер] INT  NULL,
 
-	 [Статус] VARCHAR(1)  NULL,
-
 	 [Транзакция] UNIQUEIDENTIFIER  NOT NULL,
 
 	 [Хранение] UNIQUEIDENTIFIER  NOT NULL,
